@@ -6,3 +6,7 @@ This repository contains some public data sets that are carefully inspected and 
 
 * Columns with only one value is removed from data
 * Empty records are converted into "Other"
+
+# Data
+
+[https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset](Lead Scoring Dataset)
