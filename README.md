@@ -9,4 +9,6 @@ This repository contains some public data sets that are carefully inspected and 
 
 # Data
 
-[Lead Scoring Dataset](https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset)
+| Original dataset                                                                                | Cleaned Dataset                                                                                         |
+|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [Lead Scoring Dataset](https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset) | [Cleaned Dataset](https://github.com/arwankhoiruddin/cleaned_datasets/blob/main/lead_scoring_clean.csv) |
