@@ -9,4 +9,4 @@ This repository contains some public data sets that are carefully inspected and 
 
 # Data
 
-[https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset](Lead Scoring Dataset)
+[Lead Scoring Dataset](https://www.kaggle.com/datasets/amritachatterjee09/lead-scoring-dataset)
